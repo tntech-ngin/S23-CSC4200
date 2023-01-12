@@ -1,2 +1,2 @@
 baseurl="https://tntech-ngin.github.io/S23-CSC4200/"
-canonifyURLs = false
+canonifyURLs = true
