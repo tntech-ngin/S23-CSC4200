@@ -17,7 +17,11 @@ Docs based tree #
 Create a docs based tree — with a single command:
 npm run create -- --kind docs [section] For example, create a docs based tree named guides:
 npm run create -- --kind docs guides lint #
-Check scripts, styles, and markdown for errors:</description></item><item><title>Schedule</title><link>https://tntech-ngin.github.io/S23-CSC4200/docs/prologue/schedule/</link><pubDate>Thu, 12 Jan 2023 11:05:37 -0600</pubDate><guid>https://tntech-ngin.github.io/S23-CSC4200/docs/prologue/schedule/</guid><description>This is a tentative schedule and will change.
+Check scripts, styles, and markdown for errors:</description></item><item><title>Program 1</title><link>https://tntech-ngin.github.io/S23-CSC4200/docs/prologue/pa1/</link><pubDate>Thu, 12 Jan 2023 11:09:01 -0600</pubDate><guid>https://tntech-ngin.github.io/S23-CSC4200/docs/prologue/pa1/</guid><description>This is an INDIVIDUAL Assignment (Do not collaborate)
+Submit a PDF with your work on iLearn. You will find the “man” command to be very useful.
+Make sure your Raspberry PI is up.
+Open a terminal, run the ifconfig command and record the output.
+Submit the output as a screenshot (5pts) Include the following information for the eth0 interface IP address, Ethernet Address, netmask, and MTU (20pts) Run ping between two PIs and record the output.</description></item><item><title>Schedule</title><link>https://tntech-ngin.github.io/S23-CSC4200/docs/prologue/schedule/</link><pubDate>Thu, 12 Jan 2023 11:05:37 -0600</pubDate><guid>https://tntech-ngin.github.io/S23-CSC4200/docs/prologue/schedule/</guid><description>This is a tentative schedule and will change.
 Jan 12 -
 Introduction Slides Jan 17 -
 Introduction - Terminologies, Circuit vs Packet Switching, Layers, Architectures vs Protocols Slides Reading assignment for week 1 - Introduction, Chapter 1.2, and Chapter 1.3 Setting up Raspberry PIs and Connecting to the Network Jan 24 -
