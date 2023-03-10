@@ -1,4 +1,4 @@
-COMMAND=LIGHTON
+COMMAND=LIGHTOFF
 
 #rest of the document sets up styling and is not useful
 
