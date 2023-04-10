@@ -151,6 +151,10 @@ Here is what a sample interaction looks like:
       | <----------------------------------------- |
 ```
 
+___
+**Submission:**
+___
+1. Submit your code, packet capture in PCAP format, and your logs as a ZIP file.
 
 ___
 **Additional requirements:**
